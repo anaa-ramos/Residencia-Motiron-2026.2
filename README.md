@@ -83,6 +83,10 @@ src/
 - Login e permissões por usuário.
 - Testes automatizados.
 
+## Site para ver sem precisar baixar (Vercel foi usado)
+
+- https://solaria-management.vercel.app/login
+
 ## Squad 2
 
 | Nome | O que fez |
