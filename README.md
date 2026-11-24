@@ -87,12 +87,4 @@ src/
 
 - https://solaria-management.vercel.app/login
 
-## Squad 2
-
-| Nome | O que fez |
-|---|---|
-| Nome da pessoa | Parte do projeto |
-| Nome da pessoa | Parte do projeto |
-| Nome da pessoa | Parte do projeto |
-
 Residência Tecnológica, Motiron Technologies, turma 2026.2.
